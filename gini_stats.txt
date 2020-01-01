@@ -1,0 +1,3 @@
+Average Gini: 0.4009
+Std Dev Gini: 0.0167
+Optimal Threshold: 0.15
